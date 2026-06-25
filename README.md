@@ -9,7 +9,7 @@ The project is designed to give developers an easy way to deploy high-precision 
 To spin up the core environment locally:
 
 ```bash
-git clone [https://github.com/your-username/finauth-core-modules.git](https://github.com/your-username/finauth-core-modules.git)
+git clone [https://github.com/alexherny34/finauth-core-modules.git](https://github.com/alexherny34/finauth-core-modules.git)
 cd finauth-core-modules
 
 # Configure your API keys from finauth.io
